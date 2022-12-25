@@ -1,4 +1,4 @@
-package model;
+package br.com.geovanejunior.model;
 
 public class Student {
     private String name;
